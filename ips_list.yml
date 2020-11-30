@@ -19,9 +19,9 @@
 #
 
 pulp_soc:
-  commit: new_soc_interconnect
+  commit: axi_integration_solution
   server: https://github.com
-  group:  pulp-platform
+  group:  pulp-training
 
 tbtools:
   commit: v0.1
