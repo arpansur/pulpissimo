@@ -19,9 +19,9 @@
 #
 
 pulp_soc:
-  commit: v2.0.0
+  commit: f880833d291b14534ad510b4469cf1c6a34e01f7
   server: https://github.com
-  group:  pulp-platform
+  group:  pulp-training
 
 tbtools:
   commit: v0.1

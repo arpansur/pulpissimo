@@ -29,7 +29,7 @@
 
 // To use The L2 Multibank Feature, please decomment this define
 `define USE_L2_MULTIBANK
-`define NB_L2_CHANNELS 4
+`define NB_L2_CHANNELS 8
 
 // JTAG
 `define DMI_JTAG_IDCODE 32'h249511C3
